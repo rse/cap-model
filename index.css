@@ -1,7 +1,7 @@
 
 body {
     font-family: "TypoPRO Roboto";
-    font-size: 11pt;
+    font-size: 13pt;
     background-color: #f8f8f8;
     color: #333333;
 }
@@ -70,7 +70,7 @@ body {
 }
 
 .canvas .desc .text {
-    font-size: 12pt;
+    font-size: 13pt;
     font-family: "TypoPRO Roboto";
     font-weight: 300;
     color: #333333;

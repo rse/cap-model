@@ -1,9 +1,9 @@
 
 body {
-    font-family: "TypoPRO Open Sans";
+    font-family: "TypoPRO Roboto";
     font-size: 11pt;
     background-color: #f8f8f8;
-    color: #000000;
+    color: #333333;
 }
 
 .canvas {
@@ -60,20 +60,20 @@ body {
 
 .canvas .desc b {
     color: #666666;
-    font-family: "TypoPRO Open Sans";
-    font-weight: 600;
+    font-family: "TypoPRO Roboto";
 }
 
 .canvas .desc .head {
     font-weight: 200;
-    font-size: 16pt;
+    font-size: 18pt;
     color: #888888;
 }
 
 .canvas .desc .text {
     font-size: 12pt;
-    font-family: "TypoPRO Roboto Slab";
+    font-family: "TypoPRO Roboto";
     font-weight: 300;
+    color: #333333;
 }
 
 .canvas .desc .text > ul > li {

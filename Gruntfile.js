@@ -34,7 +34,7 @@ module.exports = function (grunt) {
                 directory: "lib/typopro",
                 specimen: false,
                 mergecss: true,
-                fonts: [ "OpenSans", "Roboto", "Journal" ]
+                fonts: [ "Roboto", "Journal" ]
             }
         },
         clean: {

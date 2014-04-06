@@ -35,9 +35,9 @@ body {
     top: 140px;
     left: 50px;
     width: 400px;
-    transform: rotate(-3deg);
-    -ms-transform: rotate(-3deg);
-    -webkit-transform: rotate(-3deg);
+    transform: rotate(-4deg);
+    -ms-transform: rotate(-4deg);
+    -webkit-transform: rotate(-4deg);
     color: #2B96F1;
 }
 

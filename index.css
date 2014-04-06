@@ -1,0 +1,47 @@
+
+body {
+    font-family: "TypoPRO Open Sans";
+    font-size: 11pt;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.canvas {
+    width: 100%;
+    position: relative;
+    text-center: center;
+}
+
+.canvas .logo {
+    margin-top: -40px;
+    margin-left: 80px;
+}
+
+.canvas .footer {
+    position: absolute;
+    left: 100px;
+    top: 1080px;
+    margin-top: 0px;
+    color: #999999;
+    font-size: 9pt;
+}
+.canvas .footer a {
+    text-decoration: none;
+    color: #999999;
+}
+
+.canvas .info {
+    width: 400px;
+    position: absolute;
+    top: 840px;
+    left: 100px;
+}
+.canvas .info a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+}
+.canvas a:hover {
+    color: #cc3333;
+}
+

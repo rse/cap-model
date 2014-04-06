@@ -23,6 +23,10 @@ module.exports = function (grunt) {
             "jquery": {
                 src: [ "bower_components/jquery/dist/jquery.js" ],
                 dest: "lib/jquery/jquery.js"
+            },
+            "gridless": {
+                src: [ "bower_components/gridless/predef/eg12.css" ],
+                dest: "lib/gridless/eg12.css"
             }
         },
         typopro: {
@@ -30,7 +34,7 @@ module.exports = function (grunt) {
                 directory: "lib/typopro",
                 specimen: false,
                 mergecss: true,
-                fonts: [ "OpenSans" ]
+                fonts: [ "OpenSans", "Roboto", "Journal" ]
             }
         },
         clean: {

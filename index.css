@@ -80,13 +80,13 @@ body {
     margin-bottom: 10px;
 }
 
-.canvas .footer {
-    padding-top: 20px;
+.canvas .copyright {
+    padding-bottom: 20px;
     color: #999999;
     font-size: 9pt;
-    text-align: center;
+    font-weight: 300;
 }
-.canvas .footer a {
+.canvas .copyright a {
     text-decoration: none;
     color: #999999;
 }

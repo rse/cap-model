@@ -41,6 +41,17 @@ body {
     color: #2B96F1;
 }
 
+.canvas .subtitle {
+    margin-top: 10px;
+    font-family: "TypoPRO Journal";
+    font-size: 24pt;
+    line-height: 24pt;
+    transform: rotate(-4deg);
+    -ms-transform: rotate(-4deg);
+    -webkit-transform: rotate(-4deg);
+    color: #2B96F1;
+}
+
 .canvas .diagram {
     padding-top: 20px;
     background-color: #ffffff;

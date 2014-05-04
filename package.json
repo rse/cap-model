@@ -5,7 +5,7 @@
         "grunt-cli":                  "~0.1.13",
         "grunt-contrib-clean":        "~0.5.0",
         "grunt-contrib-copy":         "~0.5.0",
-        "grunt-bower-install-simple": "~0.9.1",
-        "grunt-typopro":              "~0.9.1"
+        "grunt-bower-install-simple": "~0.9.2",
+        "grunt-typopro":              "~0.9.3"
     }
 }

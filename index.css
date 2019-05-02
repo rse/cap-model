@@ -95,8 +95,12 @@ body {
 .canvas .desc .text > ul > li {
     margin-bottom: 8px;
 }
-.canvas .desc .text > ol > li {
-    margin-bottom: 8px;
+.canvas .desc .text > ul ol {
+    margin-top: -8px;
+    margin-bottom: 24px;
+}
+.canvas .desc .text > ul ol > li {
+    margin-bottom: 4px;
 }
 
 .canvas .copyright {
